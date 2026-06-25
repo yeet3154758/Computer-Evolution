@@ -1,0 +1,19 @@
+{
+  "background_color": "#8f7a7a",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "political-gold-3hvscrm0qd.edgeone",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "political-gold-3hvscrm0qd.edgeone",
+  "start_url": "/",
+  "theme_color": "#7b7575",
+  "id": "Computer Evolution",
+  "iarc_rating_id": "Everyone",
+  "prefer_related_applications": false,
+  "categories": [
+    "education",
+    "entertainment",
+    "games"
+  ]
+}
